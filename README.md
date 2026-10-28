@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Tanvir Hossain! 👋
 
-<!--
-**tanvir-hossain-dev/tanvir-hossain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | C# | ASP.NET Core MVC
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm interested in software development and building practical web applications using Microsoft technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* **Programming:** C#
+* **Web Development:** ASP.NET Core MVC, ASP.NET Web API
+* **Database:** Microsoft SQL Server
+* **ORM:** Entity Framework Core
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Frameworks & Libraries:** Angular, React, Bootstrap
+
+## 🎓 Training
+
+**Cross Platform Apps using ASP.NET, Angular & React**
+
+* **Institution:** IsDB-BISEW
+* **Status:** Training Completed
+
+## 🚀 Featured Project
+
+### Event Management System
+
+An ASP.NET Core MVC project featuring event management, booking workflows, user roles, and payment management.
+
+## 🎯 Current Goals
+
+* Improve my C# and ASP.NET Core development skills.
+* Build practical software projects.
+* Learn Git and GitHub workflows.
+* Develop a professional software development portfolio.
+
+---
+
+Thanks for visiting my profile! 😊
